@@ -102,7 +102,7 @@ export default {
   name: 'App',
   data() {
     return {
-      score: 12,
+      score: 0,
       showModal: false,
       inGame: false,
       choice: ["paper", "scissors", "rock"],
